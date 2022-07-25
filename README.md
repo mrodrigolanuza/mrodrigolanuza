@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 📚 Latest published posts
+## :newspaper: Latest published posts
 <!-- TB-FEED:START -->
 <!--- [Blog Post Title](https://mrodrigolanuza.github.io/.../) -->
 Coming soon..
