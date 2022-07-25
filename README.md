@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 <!--
-**mrodrigolanuza/mrodrigolanuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **mrodrigolanuza/mrodrigolanuza**  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- emoji list > https://www.webfx.com/tools/emoji-cheat-sheet/
+-->
 
+<!--
+Bio pending to complete.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,6 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## 📚 Latest published posts
+<!-- TB-FEED:START -->
+<!--- [Blog Post Title](https://mrodrigolanuza.github.io/.../) -->
+Coming soon..
+<!-- TB-FEED:END -->
+
+---
 <!--
 TARJETA DE ESTADÍSTICAS
 > Wiki: https://github.com/anuraghazra/github-readme-stats#github-stats-card
