@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Let's connect! 👇🏼
+### Let's connect! 👇🏼
 
 <div align="center">
 <a href="https://www.linkedin.com/in/marcosrodrigolanuza/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 <br> 
 
-## :newspaper: Latest published posts
+### :newspaper: Latest published posts
 <!-- TB-FEED:START -->
 <!--- [Blog Post Title](https://mrodrigolanuza.github.io/.../) -->
 Coming soon..
