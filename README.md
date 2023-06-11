@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ### Let's connect! 👇🏼
-
-<div align="center">
+<div>
 <a href="https://www.linkedin.com/in/marcosrodrigolanuza/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
 <a href="https://twitter.com/marcosrlanuza"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
 </div>
