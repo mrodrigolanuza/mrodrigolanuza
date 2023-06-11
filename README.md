@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 </div>
 <br> 
 
-<!--
-### :newspaper: Latest published posts
+
+<!--### :newspaper: Latest published posts-->
 <!-- TB-FEED:START -->
 <!--- [Blog Post Title](https://mrodrigolanuza.github.io/.../) -->
-Coming soon..
+<!--Coming soon..-->
 <!-- TB-FEED:END -->
--->
+
 ---
 <!--
 TARJETA DE ESTADÍSTICAS
